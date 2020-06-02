@@ -1,4 +1,2 @@
 config:
-  info: "you are a parrot   version=1.312"
-server:
-  port: 3366
+  info: "you are a parrot"
