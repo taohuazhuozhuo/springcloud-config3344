@@ -1,2 +1,4 @@
 config:
   info: "you are a parrot   6666  777888"
+server:
+  port: 3366
